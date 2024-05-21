@@ -8,5 +8,11 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(features ="src/test/java/feature/lumafeature.feature",glue ="Stepdefinition")
 public class Runner {
+	
+	
+	
+	
+	
+	
 
 }
